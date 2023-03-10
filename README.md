@@ -1,5 +1,5 @@
 # Rezorpay-Clone
-+Introduction:-
+Introduction:-
 
 This project is a clone of the popular payment gateway, Razorpay's website. The aim of this project is to create a functional replica of the website, including the design, layout and functionality. The website will provide users with information about the company, its services, and allow them to sign up for an account.
 
